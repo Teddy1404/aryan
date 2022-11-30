@@ -12,5 +12,6 @@ int main(){
         int d = min(Y,n-Y+1);
 
         cout<<min(abs(x-X)+abs(y-Y),min(c,d)+min(a,b))<<endl;
+        cout<<"this is created by Aryan "<<endl;
     }
 }
